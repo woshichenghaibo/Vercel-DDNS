@@ -32,3 +32,6 @@ VERCEL_TOKEN='M2qG463fdfdk0Q3BkEjnvdTzI'
 then you can visit  http://xyz.abc.com:port 
 
 7.Go to bed.
+
+
+Thank @alyx404  :https://github.com/alyx404/Vercel-DDNS-v6
