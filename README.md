@@ -19,11 +19,11 @@ VERCEL_TOKEN='M2qG463fdfdk0Q3BkEjnvdTzI'
 
 #get the VERCEL_TOKEN from https://vercel.com/account/tokens
 
-3.upload DDNS.sh
+4.Upload DDNS.sh
 
-4.Move DDNS.sh into /root/
+5.Move DDNS.sh into /root/
 
-5.#Open cron settings crontab -e
+6.#Open cron settings crontab -e
 
 #Add this line :
 
@@ -31,4 +31,4 @@ VERCEL_TOKEN='M2qG463fdfdk0Q3BkEjnvdTzI'
 
 then you can visit  http://xyz.abc.com:port 
 
-6.Go to bed.
+7.Go to bed.
